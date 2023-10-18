@@ -26,7 +26,7 @@ public class Main
            
            System.out.println("Вы oтгадали числo, пoздравяем!");
        }
-       System.out.println(b);
+       
     }
 }
 }
